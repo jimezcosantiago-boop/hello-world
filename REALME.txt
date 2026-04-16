@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hola mundo
 
 estoy trabajndo en este archivo
  
+hola mundo 
+
+cambios echos desde github
+
